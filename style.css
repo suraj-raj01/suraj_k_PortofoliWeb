@@ -395,7 +395,7 @@ body{
     font-weight: 800;
     color: aqua;
 }
-.flip-card-back2 ,a {
+.flip-card-back2 a {
     /* padding-left: 60px; */
     text-decoration: none;
     color:mediumblue;
